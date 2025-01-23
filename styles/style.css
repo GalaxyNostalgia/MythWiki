@@ -57,7 +57,7 @@ nav ul li a:hover {
 }
 
 .image {
-    margin: 0 0 16px 16px; 
+    margin: 16px 16px 16px 16px; 
     max-width: 50%; 
     height: auto; 
 }
